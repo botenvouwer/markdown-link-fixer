@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../pdok/interne-documentatie/.idea/interne-documentatie.iml" filepath="$PROJECT_DIR$/../../pdok/interne-documentatie/.idea/interne-documentatie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/markdown-link-fixer.iml" filepath="$PROJECT_DIR$/.idea/markdown-link-fixer.iml" />
+    </modules>
+  </component>
+</project>
